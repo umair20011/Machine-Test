@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\Test\\MachineTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|f:\\test\\machinetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|f:\\test\\machinetest\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|solutionrelative:model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,15 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Test\\MachineTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Test\\MachineTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:39:15.099Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "F:\\Test\\MachineTest\\Model\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Model\\ApplicationDbContext.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "F:\\Test\\MachineTest\\Model\\Product.cs",
               "RelativeDocumentMoniker": "Model\\Product.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Model\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:18:40.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T16:18:40.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "F:\\Test\\MachineTest\\Model\\Category.cs",
               "RelativeDocumentMoniker": "Model\\Category.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductDAL.cs",
               "DocumentMoniker": "F:\\Test\\MachineTest\\Controllers\\ProductDAL.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductDAL.cs",
@@ -84,12 +100,11 @@
               "RelativeToolTip": "Controllers\\ProductDAL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:16:25.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T16:16:25.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MachineTest.csproj",
               "DocumentMoniker": "F:\\Test\\MachineTest\\MachineTest.csproj",
               "RelativeDocumentMoniker": "MachineTest.csproj",
