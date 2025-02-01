@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "F:\\Test\\MachineTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|f:\\test\\machinetest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|f:\\test\\machinetest\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|f:\\test\\machinetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|f:\\test\\machinetest\\controllers\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|solutionrelative:controllers\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|f:\\test\\machinetest\\controllers\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|solutionrelative:controllers\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADEF4E93-5D32-4F56-B455-E4382D8B7720}|MachineTest.csproj|f:\\test\\machinetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\Test\\MachineTest\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -58,18 +62,14 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoryDAL.cs",
-              "DocumentMoniker": "F:\\Test\\MachineTest\\Controllers\\CategoryDAL.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoryDAL.cs",
-              "ToolTip": "F:\\Test\\MachineTest\\Controllers\\CategoryDAL.cs",
-              "RelativeToolTip": "Controllers\\CategoryDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "F:\\Test\\MachineTest\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "F:\\Test\\MachineTest\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T17:19:55.831Z",
               "EditorCaption": ""
@@ -84,8 +84,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:39:15.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T16:39:15.099Z"
             },
             {
               "$type": "Document",
@@ -125,13 +124,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductDAL.cs",
-              "DocumentMoniker": "F:\\Test\\MachineTest\\Controllers\\ProductDAL.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductDAL.cs",
-              "ToolTip": "F:\\Test\\MachineTest\\Controllers\\ProductDAL.cs",
-              "RelativeToolTip": "Controllers\\ProductDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\Test\\MachineTest\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "F:\\Test\\MachineTest\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T16:16:25.638Z",
               "EditorCaption": ""
